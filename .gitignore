@@ -2,4 +2,4 @@
 
 **/.terraform/
 kp_devops_fest.pem
-**/terraform.lock.hcl
+**/.terraform.lock.hcl
